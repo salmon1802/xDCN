@@ -10,8 +10,6 @@ If you have any questions, feel free to ask!  :)
     <img src="https://github.com/user-attachments/assets/6f0479ce-edb2-4ad1-92a0-7ec9aeeb5f2d" alt="DCNv3" />
 </div>
 
-![image](https://github.com/user-attachments/assets/11d6850f-5eec-4865-b5a7-4abbc2088508)
-
 
 
 ## Requirements
