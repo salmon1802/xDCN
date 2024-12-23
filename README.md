@@ -1,7 +1,8 @@
 If you have any questions, feel free to ask!  :)
-# DCNv3: Towards Next Generation Deep Cross Network for Click-Through Rate Prediction
+# xDCN: Combining Exponential and Linear Feature Interactions for Click-Through Rate Prediction
 
-![image](https://github.com/user-attachments/assets/0a40f76b-0784-47d4-9e06-985d85540460)
+![image](https://github.com/user-attachments/assets/c3c713a4-0ff6-4039-a5b3-55f5214ee391)
+
 
 
 ## Model Overview
@@ -23,11 +24,6 @@ scikit-learn
 numpy  
 h5py  
 tqdm  
-
-## Experiment results
-![image](https://github.com/user-attachments/assets/4be97744-3f3f-4840-96f1-b1e6c3435d51)
-![image](https://github.com/user-attachments/assets/7128efd9-ea98-4d1d-8773-ce529ce4377f)
-
 
 
 ## Datasets
