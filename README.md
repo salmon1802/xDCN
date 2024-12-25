@@ -1,5 +1,5 @@
 If you have any questions, feel free to ask!  :)
-# xDCN: Combining Exponential and Linear Feature Interactions for Click-Through Rate Prediction (Old name DCNv3)
+# xDCN: Combining Exponential and Linear Cross Network for Click-Through Rate Prediction (Old name DCNv3)
 
 ![image](https://github.com/user-attachments/assets/c3c713a4-0ff6-4039-a5b3-55f5214ee391)
 
